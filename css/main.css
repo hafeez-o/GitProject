@@ -11,3 +11,7 @@ ul {
 	display: inline;
 	list-style-type: none;
 }
+p{
+	font-family: helvetica;
+	color: purple;
+}
